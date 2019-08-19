@@ -12,4 +12,6 @@ describe('practice-1-2', () => {
 
     expect(result).toEqual(['a', 'e', 'f', 'd']);
   });
+
+
 });
